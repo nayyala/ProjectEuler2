@@ -3,6 +3,7 @@
 #include <iostream>
 
 // Problem 1
+// Find the sum of all multiples of 3 and 5 greater than 1 and less than 1000
 
 using namespace std;
 
